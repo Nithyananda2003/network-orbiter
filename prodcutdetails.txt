@@ -1,0 +1,608 @@
+This category includes high-performance Point-to-Point (PTP) solutions and Customer Premises Equipment (CPE) units, often operating in the 4-7 GHz frequency bands.
+Product Model
+Description & Details
+ORBITER XB Series (General)
+A next-generation Point-to-Point solution designed for high-performance last-mile access, offering impressive wireless throughput up to 2.1 Gigabit per second in 160 MHz or up to 1.1 Gigabit per second in 80 MHz. It operates across a wide frequency range of 4.9 – 6.060 GHz and 6.0 – 7.1 GHz. The series includes a built-in router and a firewall, supporting networking features such as MAC/IP filtering, IP tunneling, Q-in-Q Vlans, smart traffic prioritization, and shaping. It utilizes SU-MIMO 2x2 radio technology, BPSK 1/2 to QAM1024 7/8 modulation, and supports channel bandwidths of 20/40/80/160* MHz. These systems can be deployed at distances exceeding 30 kilometers.
+OXB5-25 / OXB6-25
+An Integrated antenna subscriber terminal unit optimized for middle-to-long range (15-20 km). It features a 25 dBi dual-pol integrated antenna (8x8 deg). Frequency bands include QSR5 (4900-6060 MHz) and QSR6 (6000-7100 MHz). The wired interface is a Combo port: 1x Gigabit Ethernet port (RJ45) and 1x SFP. The Outdoor Unit (ODU) dimensions are 350 x 350 x 71.5 mm, weighing 2.3 kg, with a power consumption of up to 30 W.
+OXB5-28 / OXB6-28
+An Integrated antenna subscriber terminal unit suitable for long range (25+ km) deployment. It is equipped with a 28 dBi dual-pol integrated antenna (5x5 deg). Frequency bands include QSR5 (4900-6060 MHz) and QSR6 (6000-7100 MHz). The wired interface is a Combo port: 1x Gigabit Ethernet port (RJ45) and 1x SFP. The ODU dimensions are 600 x 600 x 68 mm, weighing 5.8 kg, with a power consumption of up to 30 W.
+OXB5-E / OXB6-E
+An External antenna subscriber terminal unit designed for long range (30+ km). It utilizes Connectorized antenna ports (2 x N-type connectors). Frequency bands include QSR5 (4900-6060 MHz) and QSR6 (6000-7100 MHz). The wired interface is a Combo port: 1x Gigabit Ethernet port (RJ45) and 1x SFP. The ODU dimensions are 188 x 190 x 86 mm, weighing 1.2 kg, with a power consumption of up to 30 W.
+Orbiter O4-E
+A 4 GHz Point-to-Point unit designed for extreme long distances (200+ km). It provides net throughput up to 650 Mbps. It features 2x N-type (F) connectors for an external antenna and operates in the 4000-5000 MHz frequency range. It utilizes MIMO 2x2 (SC-FDE) radio technology and supports channel widths from 3.5 MHz up to 56 MHz. The unit includes a built-in full-fledged L2 switch and supports management protocols like HTTP, SSH, HTTPS, Telnet, and SNMP.
+Orbiter O5-18
+A 5 GHz Point-to-Point unit providing net throughput up to 650 Mbps. It has an integrated 18 dBi dual-pol antenna (18x18 deg) and is recommended for distances up to 20 km. It operates in the 4900-6000 MHz frequency range. The ODU weighs 1.3 kg, consumes up to 15 W, and features one Gigabit Ethernet wired interface.
+Orbiter O5-23
+A 5 GHz Point-to-Point unit providing net throughput up to 650 Mbps. It features an integrated 23 dBi dual-pol antenna (10x10 deg) and is recommended for distances up to 40 km. It operates in the 4900-6000 MHz frequency range. The wired interface is a 1x Combo port Gigabit Ethernet/SFP.
+Orbiter O5-25
+A 5 GHz Point-to-Point unit providing net throughput up to 650 Mbps. It features an integrated 25 dBi dual-pol antenna (8x8 deg) and is recommended for distances up to 60 km. It operates in the 4900-6000 MHz frequency range. The wired interface is a 1x Combo port Gigabit Ethernet/SFP.
+Orbiter O5-28
+A 5 GHz Point-to-Point unit providing net throughput up to 650 Mbps. It features an integrated 28 dBi dual-pol antenna (5x5 deg) and is recommended for distances up to 80 km. It operates in the 4900-6000 MHz frequency range. The ODU dimensions are 600 x 600 x 68 mm, weighing 5.8 kg.
+Orbiter O5-E
+A 5 GHz Point-to-Point unit designed for long distances (200+ km). It provides net throughput up to 650 Mbps. It uses 2x N-type (F) connectors for an external antenna. It operates in the 4900-6000 MHz frequency range and includes a 1x Combo port Gigabit Ethernet/SFP interface.
+Orbiter NXG5-ST18 / Orbiter NXG6-18
+6 GHz Point-to-Point/PTMP CPE units (Subscriber Terminal) offering net throughput up to 670 Mbps. These units are recommended for distances up to 10 km. They feature an integrated dual-pol 18 dBi antenna (18x18 deg). Both models operate in the 4900-6425 MHz frequency range and utilize MIMO 2x2 radio technology. The wired interface is 1x Gigabit Ethernet (RJ45).
+Orbiter NXG5-ST25
+A 6 GHz subscriber terminal providing net throughput up to 670 Mbps. It is recommended for distances up to 15 km and features an integrated dual-pol 25 dBi antenna (8x8 deg). It operates in the 4900-6425 MHz frequency range. The ODU size is 350x350x71.5 mm, and consumption is up to 15 W.
+Orbiter NXG5-ST28
+A 6 GHz subscriber terminal providing net throughput up to 670 Mbps. It is recommended for long distances (25+ km) and features an integrated dual-pol 28 dBi antenna (5x5 deg). It operates in the 4900-6425 MHz frequency range. The ODU size is 600x600x68 mm, weighing 5.8 kg.
+Orbiter NXG5-STE
+A 6 GHz subscriber terminal utilizing 2x N-type (F) connectors for an external antenna. It provides net throughput up to 670 Mbps and is recommended for distances of 30+ km. The ODU weighs 1.2 kg.
+
+--------------------------------------------------------------------------------
+NXG5 Base Stations
+These are sector units primarily used for Point-to-Multipoint (PTMP) infrastructure, offering high throughput and robust networking features.
+Product Model
+Description & Details
+Orbiter NXG5-bSBS
+A 5 GHz base station sector unit with an integrated dual-pol beamforming antenna (21 dBi, 90x8 deg), featuring a 20 deg Az-steerable beam. It achieves net throughput up to 800 Mbps in 80 Mhz and is recommended for distances up to 30 km. The unit operates in the 4900-6050 MHz frequency range. Wired Interfaces include 1x Gigabit Ethernet, SFP, and SYNC ports. It supports L2/L3 Firewall, RIPv2 / OSPFv2 /static routing, and DHCP client/server/relay.
+Orbiter NXG5-eSBS
+A 5 GHz base station sector unit designed for use with an external antenna, featuring 2x N-type (F) connectors. It achieves net throughput up to 800 Mbps in 80 Mhz and is recommended for distances of 40+ km. It operates in the 4900-6050 MHz frequency range. The ODU is compact (240 x 248 x 87 mm) and weighs 2.2 kg. Wired Interfaces include 1x Gigabit Ethernet, SFP, and SYNC ports.
+Orbiter NXG5-iSBS
+A 5 GHz base station sector unit with an integrated dual-pol 16 dBi antenna (90x8 deg). It achieves net throughput up to 800 Mbps in 80 Mhz and is recommended for distances up to 20 km. It operates in the 4900-6050 MHz frequency range. Wired Interfaces include 1x Gigabit Ethernet, SFP, and SYNC ports.
+
+--------------------------------------------------------------------------------
+Antennas
+This category features parabolic dish antennas and omni antennas for PTP and PTMP applications, spanning 4 GHz to 11.7 GHz bands.
+Product Model
+Description & Details
+Orbiter OANT-O13D
+A 4.9-5.8 GHz 13 dBi Omni Antenna Connectorized. It features High Gain, MIMO, and Dual Slant polarization, optimized specifically for PTMP Applications.
+Orbiter OANT-4G-28-MH
+A mesh dish antenna operating in the 4.4-5 GHz Frequency Range. It provides a 28 ±1 dBi Gain with a Horizontal and Vertical Beam width of 5.5°. It supports Dual Slant polarization and connects via 2-RPSMA/N Male/N Female connectors. The dish material is aluminum and the antenna weighs 2.5 kg.
+Orbiter OANT-4G-30-MH
+A mesh dish antenna operating in the 4.4-5 GHz Frequency Range. It provides a 30 ±1 dBi Gain with a Horizontal and Vertical Beam width of 4.5°. It supports Dual Slant polarization and connects via 2-RPSMA/N Male/N Female connectors. The antenna size is approximately 0.9m in diameter, weighing 10 kg.
+Orbiter OANT30-6SD-C
+A 4.9-7.125 GHz 60cm Mimo Dish Antenna Connectorized with 30 dBi High Gain. It features an Ultra Wide Band design and is optimized for Long Distance Backhaul and Point to Point Data Links. It has a 2 feet Dish Pizza Design and supports Dual Slant polarization (V/H or ±45°).
+Orbiter OANT30-MH-C
+A 4.9-7.125 GHz 60cm Mimo Mesh Dish Antenna Connectorized with 30 dBi High Gain. This 2-feet dish uses a Mesh Design for Light Weight. It is Ultra Wide Band, optimized for Long Distance Backhaul and Point to Point Data Links, and supports Dual Slant polarization.
+Orbiter OANT30-SD-C
+A 4.9-7.125 GHz 60cm Mimo Solid Dish Antenna Connectorized with 30 dBi High Gain. It is optimized for Ultra Wide Band, Long Distance Backhaul and Point to Point Data Links.
+Orbiter OANT30-6SD-X
+A 4.9-6.5 GHz 60cm Mimo Dish Antenna with 30 dBi High Gain. This model is explicitly compatible with Mimosa B5x, B6x, C5x, C6x. It features Dual Slant (V/H or ±45°) polarization and a 2 feet Dish Pizza Design.
+Orbiter OANT34-6MH-C
+A 4950 MHz TO 7125 MHz, 3-FOOT MESH PIZZA DISH ANTENNA with 34 dBi High Gain (maximum gain in the 5.9-7.125 GHz range). It is a 2x2 MIMO, Dual Slant antenna designed for Long Distance Backhaul. It utilizes a detachable 6 Piece Reflector Dish Design (Aluminum Mesh holed Reflector) for lightweight transportation. It is listed as having 2X N FEMALE CONNECTORS, and the box contains 2 antennas.
+Orbiter OANT34-6MH-X
+A 4.9-6.5 GHz Mesh Dish Antenna with 34 dBi High Gain (maximum gain in the 5.9-6.5 GHz range). This 3 feet dish is compatible with Mimosa C5X, B5X, C6X, B6X via a Modular Twist On Connector. It is designed for Long Distance Backhaul. The antenna size is approximately 0.9m in diameter, weighing 13 kg.
+Orbiter OANT36-4MH-C
+A 4.9-7.125 GHz 4 feet Mesh Dish Antenna with 36 dBi High Gain (reaching 36.5 dBi in the 5.9-7.125 GHz range). It is designed for Long Distance Backhaul and Point to Point links. It supports Dual Slant (V/H or ±45°) polarization and uses 2 x N Male/Female connectors. It has a Lightweight form factor using a Detachable 4 Piece Reflector Dish Design.
+Orbiter OANT-11G35D
+A 10.0-11.7 GHz 2Ft Parabolic Antenna with 35 dBi High Gain (35.2 dBi in the high band). It features MIMO and Dual Slant polarization and is explicitly optimized for the Mimosa B11 Backhaul Radio. The antenna size is 0.6 m in diameter, weighing 6.5 kg.
+
+--------------------------------------------------------------------------------
+Network Switches
+This category includes Gigabit Ethernet PoE Switches and related solar power/injection equipment.
+Product Model
+Description & Details
+OS-MP Series (Gigabit Ethernet POE Switch Series)
+A new-generation intelligent PoE access switch series based on the TROS™ platform, designed for carrier’s IP MAN and enterprise networks. All models support carrier-level reliability, including protocols like STP/RSTP/MSTP and LACP link aggregation, with ring protection recovery in under 50ms. They feature powerful ACL functions (L2-L7 data control), carrier-level QoS policies (supporting SP, WRR, and "SP + WRR" algorithms), and security mechanisms like DDoS attack prevention, 802.1x authentication, and port binding. The switches support Intelligent PoE+ (IEEE 802.3AF/AT) and various management modes including CLI, WEB, SSH, SNMP, and Zero Touch Provisioning (ZTP).
+OS-MP8G2S
+An 8-Port Gigabit PoE+ TX + 2-Port Gigabit SFP Managed PoE Switch. It is fanless and designed for desktop/rack-mounted installation. The PoE power budget is 140W, and it has a 20 Gbps backplane.
+OS-MP16G4S
+A 16-port Gigabit PoE+ TX + 4-port Gigabit SFP PoE Switch. It uses fan cooling and is designed for 19-inch rack mounting. The PoE power budget is 240W, and it has a 56 Gbps backplane.
+OS-MP24G4S
+A 24-Port Gigabit PoE+ TX + 4-Port Gigabit SFP Managed Switch. It is fanless and designed for standard 19-inch rack mounting. The PoE power budget is 370W, and it has a 56 Gbps backplane.
+OS-MP24G4SC
+A 24-Port Gigabit PoE+ TX + 4-Port Gigabit RJ45/SFP Combo Managed Switch. It includes a cooling fan and is designed for standard 19-inch rack mounting. The PoE power budget is 370W, and it has a 56 Gbps backplane.
+Solar PoE Switch
+A switch featuring 1x 1000 Mbps PoE 60Watts port, 2x 1000 Mbps PoE 30Watts ports, and 2x 1000 Mbps Auto PoE 48v/24v ports. It also includes 1x 1000Mbps uplink SFP port. It supports 802.3af/802.3at self-adaption, plug and play installation, and accepts 12V solar panel input (<30V).
+Smart Solar Charge Controller
+A device designed to provide continuous specified power 24/7, suitable for applications like Telecom, Wi-Fi power, and CCTV. It is synchronized with Lead Acid/Li-Ion batteries and supports solar and AC grid charging. It features low leakage current (<1mA). The Ethernet output provides 48 VDC, 30W power.
+UNIVARSAL INPUT SINGLE PORT POE INJECTOR 48V -21W (PAS-ADC -48-21- 1G)
+A single port PoE injector providing 48 V, 21 W Rated Power output. It supports wide input supply ranges: 90 VAC - 300 VAC or 36 V DC - 72 V DC. It offers 10/100/1000 Mbps Ethernet connectivity and features comprehensive protections (Short circuit, Over load, Over voltage, Over Temp).
+
+--------------------------------------------------------------------------------
+Software Tools
+This category lists proprietary monitoring systems and specialized software functions integrated into the networking hardware.
+Tool/Feature
+Description & Applicable Products
+EMS NEXT
+Proprietary software utilized for online monitoring. Found on Orbiter NXG5 Subscriber Terminals, NXG5 Base Stations, and Orbiter O4/O5 PTP units.
+Spectrum Analyzer Mode
+A feature provided on NXG5 Subscriber Terminals and the ORBITER XB Series used for analyzing the wireless environment.
+Channel Testing Tools
+Utilities available for performing channel tests, found on NXG5 Subscriber Terminals and the ORBITER XB Series.
+Antenna Alignment Tool
+A management feature used to assist in physically aligning antennas.
+Zero Touch Provisioning (ZTP)
+A function supported by the OS-MP8G2S Series Network Switches that minimizes manual operator intervention, thus helping to reduce initial deployment costs.
+In-Service Software Upgrade (ISSU)
+A reliability feature supported by the OS-MP8G2S Series Network Switches, ensuring the uninterrupted data forwarding during system upgrades.
+Automatic Control Options
+Features such as Automatic Bitrate Control, Automatic Transmit Power Control, Automatic Distance Learning, and Dynamic Frequency Selection (DFS) which ensure easy operation and high performance.
+can you add some more details please
+
+The sources contain extensive details regarding the technical specifications, networking capabilities, and physical properties of the products. Here are enhanced descriptions sorted into the requested categories:
+Wireless Radios
+This category features high-capacity Point-to-Point (PTP) and Customer Premises Equipment (CPE) units operating primarily in the 4 GHz to 7 GHz bands, distinguished by their throughput and highly detailed network management capabilities.
+Product Model
+Enhanced Technical Details & Features
+ORBITER XB Series (PTP Solution)
+This series supports maximum throughput of 2.1 Gigabit per second using 160 MHz channel bandwidth or 1.1 Gigabit per second in 80 MHz,. It utilizes SU-MIMO 2x2 radio technology with advanced modulation up to QAM1024 7/8. The operational frequency ranges are 4.9 – 6.060 GHz and 6.0 – 7.1 GHz,. Networking features include IP tunneling, Q-in-Q Vlans, and support for Ethernet-over-IP and IP-over-IP tunneling,. The system includes a built-in full-fledged L2 switch and an L2/L3 firewall,. QoS is managed by over 8 priority queues, supporting IEEE 802.1p and IP TOS / DiffServ. Outdoor units (ODU) have an IP66/IP67 ingress protection code and operate between -40°C and +60°C.
+OXB5-25 / OXB6-25, OXB5-28 / OXB6-28, OXB5-E / OXB6-E
+These specific XB models share a transmit power of up to 27 dBm and a receiver sensitivity of up to -63 dBm. The integrated OXB5/6-25 has a 25 dBi antenna (8x8 deg) and is recommended for 15-20 km,, with an ODU size of 350 x 350 x 71.5 mm. The integrated OXB5/6-28 has a 28 dBi antenna (5x5 deg) for 25+ km,, with a larger ODU (600 x 600 x 68 mm). The OXB5/6-E uses 2 x N-type connectors for external antennas, suitable for 30+ km,. All models use a Combo port (1x Gigabit Ethernet and 1x SFP) for wired interfaces.
+Orbiter O4-E (4 GHz PTP)
+This unit achieves net throughput up to 650 Mbps and is designed for long distances of 200+ km,. It operates in the 4000-5000 MHz range using MIMO 2x2 (SC-FDE) radio technology. Channel widths are highly flexible, ranging from 3.5 MHz up to 56 MHz. Its superior link budget is evident from its receiver sensitivity down to -101 dBm. It features DFS (Dynamic Frequency Selection) including radar detection.
+Orbiter O5 Series (PTP Units: O5-18, O5-23, O5-25, O5-28, O5-E)
+These 5 GHz PTP units offer up to 650 Mbps throughput. They operate in the 4900-6000 MHz range with a receiver sensitivity of up to -101 dBm. A key radio feature is Instant DFS, which uses background spectrum monitoring by both Master and Slave terminals to facilitate a seamless channel change,,,. QoS supports 8 priority queues,,,,,. The O5-25, for example, has a 25 dBi antenna (8x8 deg) and is recommended for distances up to 60 km.
+Orbiter NXG5/NXG6 Subscriber Terminals (CPE)
+These 6 GHz subscriber units (NXG5-ST18, -25, -28, -E, and NXG6-18) all support net throughput up to 670 Mbps,,,,. They utilize MIMO 2x2 (OFDM 64/128) radio technology and operate in the 4900-6425 MHz frequency range,,,,. Networking capabilities include RIPv2 / OSPFv2 /static routing and NAT (multipool, H.323-aware),,,,. The radio MAC layer uses an Adaptive TDMA air protocol with subscriber activity aware scheduling,,,,. The units feature a Pseudo-radio interface, a unique feature allowing them to join Network Orbiter networks via third-party equipment,,,,.
+NXG5 Base Stations
+These sector units provide carrier-grade Point-to-Multipoint (PTMP) coverage in the 5 GHz band, prioritizing high throughput and advanced network management.
+Product Model
+Enhanced Technical Details & Features
+NXG5 Base Station Series (iSBS, bSBS, eSBS)
+These base stations achieve net throughput up to 800 Mbps in 80 Mhz,, in the 4900-6050 MHz frequency range,,. All models share the same wired connectivity: 1x Gigabit Ethernet, SFP, and SYNC ports,,. They support advanced L2/L3 Firewall functions and routing via RIPv2 / OSPFv2,,. QoS supports 17 priority queues,,.
+Orbiter NXG5-bSBS (Beamforming)
+This integrated base station features a 21 dBi dual-pol beamforming antenna (90x8 deg) with a 20 deg Az-steerable beam. Recommended distance is up to 30 km. It has a higher consumption of up to 35 W.
+Orbiter NXG5-eSBS (External)
+This connectorized unit is suitable for distances of 40+ km. It features 2x N-type (F) connectors for external antennas, and supports a high transmit power of up to 27 dBm. The ODU is compact (240 x 248 x 87 mm) and weighs 2.2 kg.
+Orbiter NXG5-iSBS (Integrated)
+This model provides integrated coverage with a 16 dBi dual-pol antenna (90x8 deg), recommended for distances up to 20 km. It consumes up to 20 W.
+Antennas
+These antennas span a wide frequency spectrum (4 GHz to 11.7 GHz) and include detailed specifications on gain and physical construction, often designed for easy transport via multi-piece mesh designs.
+Product Model
+Enhanced Technical Details & Features
+Orbiter OANT-4G-28-MH (4 GHz Mesh)
+This antenna operates in the 4.4-5 GHz range with 28 ±1 dBi gain. It features a Dual Slant polarization and narrow beam widths (5.5° H/V). The antenna material is aluminum, and it weighs 2.5 kg.
+Orbiter OANT-4G-30-MH (4 GHz Mesh)
+Operating in the 4.4-5 GHz range, this antenna offers 30 ±1 dBi gain. It features a tighter beam width of 4.5° Horizontal and Vertical. The physical size is large (φ0.9 m diameter) and weighs 10 kg.
+Orbiter OANT-11G35D (11 GHz Parabolic)
+This unit operates in the 10.0-11.7 GHz frequency range. It is optimized for the Mimosa B11 Backhaul Radio, providing a peak gain of 35.2 dBi in the high band. It uses a Circle waveguide ∅19 mm for input/output, and features a 2 feet Dish Pizza Design for Easy Transport.
+Orbiter OANT34-6MH-C (3-Foot Mesh)
+This 3-foot mesh dish operates across a wide frequency range: 4950 MHz to 7125 MHz,. It achieves its maximum gain of 34 dBi in the 5.9-7.125 GHz range. It supports Dual Slant polarization and is explicitly designed for Long Distance Backhaul. It uses a Detachable 6 Piece Reflector Dish Design for lightweight form factor and easy transportation. Note: The antenna description lists 2X N FEMALE CONNECTORS in one section,, but  N-Male* connectors in the technical specifications,.
+Orbiter OANT36-4MH-C (4-Foot Mesh)
+This 4-foot dish operates in the 4.9-7.125 GHz range. It provides the highest specified gain: 36.5 dBi in the 5.9-7.125 GHz band. It is designed for lightweight transport using a Detachable 4 Piece Reflector Dish Design. The antenna weighs 13 kg and has narrow 3° H/V beam widths.
+Network Switches
+The OS-MP Gigabit Ethernet PoE Switch Series is a carrier-grade line based on the TROS™ platform, focusing on robust security and high reliability.
+Product Model
+Enhanced Technical Details & Features
+OS-MP Gigabit Ethernet POE Switch Series (General)
+These switches are based on the TROS™ platform,. They support carrier-level reliability protocols, including STP/RSTP/MSTP and LACP link aggregation, with ring protection recovery in less than 50ms,. Security is robust, featuring level-based packet protection to prevent attacks such as DoS, TCP SYN Flood, UDP Flood, and Broadcast Storms,. The switches provide flexible QoS policies, supporting flow classification based on VLAN, MAC, IP, and priority, utilizing SP, WRR, and “SP + WRR” scheduling algorithms,,,. They all support IEEE 802.3AF/AT PoE+,.
+OS-MP8G2S
+A fanless desktop/rack-mounted switch with 8xGE TX POE+ ports and 2xGE-SFP ports,,,. It has a 20 Gbps backplane and a PoE power budget of 140W,,,.
+OS-MP16G4S
+A 19-inch rack-mounted switch with cooling fans,,,. It offers 16xGE TX POE+ ports and 4xGE-SFP ports,. It has a 56 Gbps backplane and a PoE budget of 240W,,,.
+OS-MP24G4S
+A fanless 19-inch rack-mounted switch with 24xGE TX POE+ ports and 4xGE-SFP ports,,,. It offers a high PoE budget of 370W,.
+OS-MP24G4SC
+This model is similar to the OS-MP24G4S, but features 4xGE Combo (TX/SFP) ports instead of SFP only,, and includes a cooling fan,,,. It also has a 370W PoE budget,.
+UNIVARSAL INPUT SINGLE PORT POE INJECTOR 48V -21W (PAS-ADC -48-21- 1G)
+This PoE injector delivers a rated power of 48 V, 21 W. It supports a very wide input supply range of either 90 VAC - 300 VAC or 36 V DC - 72 V DC,. It provides 10/100/1000 Mbps Ethernet capability and includes features like low leakage current (<1mA) and multiple protections against short circuit, overload, over voltage, and over temperature,.
+Software Tools
+The software features are embedded within the network devices, emphasizing automation and comprehensive diagnostic capabilities.
+Tool/Feature
+Enhanced Details
+Automatic Control Options
+These features ensure easy operation, covering Automatic Bitrate Control, Automatic Transmit Power Control, Automatic Distance Learning, Dynamic Frequency Selection (DFS), and Channel Time Adjustment,,,,,,,,,,.
+In-Service Software Upgrade (ISSU)
+Supported by the OS-MP Switch series, this function ensures the system continues uninterrupted data forwarding during system upgrades,,,,,.
+Zero Touch Provisioning (ZTP)
+This function is supported by the OS-MP Switch series to minimize manual operator intervention and reduce initial deployment costs,,,.
+MAC Layer Adaptive TDMA Air Protocol
+Used by the NXG5 CPE and Base Stations, this protocol supports dynamic and fixed air frame duration and features subscriber activity aware scheduling and permanent channel testing,,,,,,,.
+Management Protocols
+In addition to graphical user interfaces (GUI), all units support remote management via HTTP, HTTPS, SSH, Telnet, and SNMP v1/2c/3,,,,,,,,,. The switches also support FTP, TFTP, and SFTP,,,.
+nice create  me a pdf for this
+
+I appreciate you would like this information in PDF format. As an AI language model, I am unable to generate, save, or upload files, including PDFs [Self-Correction/Limitation].
+However, the comprehensive, detailed tables provided in the previous response are formatted using Markdown, making them ideal for copying directly into any document editor (such as Microsoft Word, Google Docs, or Pages). Once copied into a document, you can then use your program's native function to export or print the document as a PDF file containing all the product specifications.
+The structured data below is categorized and ready for export:
+
+--------------------------------------------------------------------------------
+Wireless Radios
+These high-performance Point-to-Point (PTP) and Customer Premises Equipment (CPE) units operate primarily in the 4.9 GHz to 7.1 GHz bands.
+Product Model
+Key Details and Capacity
+Radio/Antenna Specifications
+Networking & Environment
+ORBITER XB Series (General)
+Next-generation PTP solution designed for high-performance last-mile access. Offers up to 2.1 Gigabit per second in 160 MHz.
+Operates in 4.9–6.060 GHz and 6.0–7.1 GHz. Features SU-MIMO 2x2 radio technology and modulation types from BPSK 1/2 up to QAM1024 7/8.
+Includes a built-in router and L2/L3 firewall. Supports IP tunneling, Q-in-Q Vlans, and over 8 priority queues for QoS. Deployment possible at distances over 30 kilometers.
+OXB5-25 / OXB6-25
+Integrated subscriber terminal unit for Middle-to-long range (15-20 km). Max throughput up to 2.1 Gbps.
+Features a 25 dBi dual-pol integrated antenna (8x8 deg). Transmit power up to 27 dBm. Operates in QSR5 (4900-6060 MHz) and QSR6 (6000-7100 MHz).
+Wired interface is a Combo port: 1x Gigabit Ethernet and 1x SFP. ODU size: 350 x 350 x 71.5 mm, 2.3 kg. Consumption up to 30 W.
+OXB5-28 / OXB6-28
+Integrated subscriber terminal unit for Long range (25+ km).
+Features a 28 dBi dual-pol integrated antenna (5x5 deg). ODU size: 600 x 600 x 68 mm, 5.8 kg.
+Wired interface is a Combo port (Gigabit Ethernet + SFP).
+OXB5-E / OXB6-E
+External antenna subscriber terminal unit for Long range (30+ km).
+Connects via 2 x N-type connectors. ODU is 188 x 190 x 86 mm, 1.2 kg.
+Wired interface is a Combo port (Gigabit Ethernet + SFP).
+Orbiter O4-E
+4 GHz PTP unit optimized for distances 200+ km. Net throughput up to 650 Mbps.
+Frequency range: 4000-5000 MHz. Uses MIMO 2x2 (SC-FDE). Supports wide channel widths (3.5 MHz to 56 MHz). Receiver sensitivity down to -101 dBm.
+Features a built-in full-fledged L2 switch. Wired interface is a Combo port Gigabit Ethernet/SFP. Environmental protection is IP66/IP67.
+Orbiter O5-18, O5-23, O5-25, O5-28
+5 GHz PTP units with net throughput up to 650 Mbps. Ranges up to 20 km (O5-18), 40 km (O5-23), 60 km (O5-25), and 80 km (O5-28).
+Frequency range: 4900-6000 MHz. Features Instant DFS (seamless channel change via Master/Slave monitoring). Receiver sensitivity down to -101 dBm.
+Support 8 priority queues for QoS. Wired interfaces include Gigabit Ethernet (O5-18) or Combo port Gigabit Ethernet/SFP (O5-23, O5-25, O5-28).
+Orbiter O5-E
+5 GHz PTP unit using external antenna for distances 200+ km. Throughput up to 650 Mbps.
+Uses 2x N-type (F) connectors. Operates in 4900-6000 MHz. Supports Instant DFS and Automatic Bitrate Control.
+Includes a built-in full-fledged L2 switch. ODU weight: 1.2 kg.
+Orbiter NXG5/NXG6-ST Series
+6 GHz CPE units offering up to 670 Mbps net throughput. Recommended distances up to 10 km (-18), 15 km (-25), 25+ km (-28), or 30+ km (-E).
+Frequency range: 4900-6425 MHz. Uses MIMO 2x2 (OFDM 64/128). Antenna gain: 18 dBi (-18), 25 dBi (-25), 28 dBi (-28).
+Features 17 priority queues for QoS. Networking includes RIPv2 / OSPFv2 /static routing and NAT (H.323-aware). Uses Adaptive TDMA air protocol.
+NXG5 Base Stations
+These 5 GHz sector units offer high throughput for Point-to-Multipoint (PTMP) access and feature advanced management and routing capabilities.
+Product Model
+Key Details and Capacity
+Radio/Antenna Specifications
+Networking & Environmental
+Orbiter NXG5-bSBS
+Base station sector unit with net throughput up to 800 Mbps in 80 Mhz. Recommended distance up to 30 km.
+Integrated dual-pol beamforming antenna, 21 dBi (90x8 deg). Includes a 20 deg Az-steerable beam. Frequency range: 4900-6050 MHz.
+Features 17 priority queues for QoS. Wired Interfaces include 1x Gigabit Ethernet, SFP, and SYNC ports. Supports L2/L3 Firewall, RIPv2 / OSPFv2. ODU is 371 x 371 x 90 mm.
+Orbiter NXG5-eSBS
+Base station sector unit for use with an external antenna. Recommended distance 40+ km. Net throughput up to 800 Mbps in 80 Mhz.
+Connectorized using 2x N-type (F) connectors. Transmit power up to 27 dBm. Receiver sensitivity down to -93 dBm.
+Wired Interfaces include 1x Gigabit Ethernet, SFP, and SYNC ports. ODU is compact (240 x 248 x 87 mm, 2.2 kg).
+Orbiter NXG5-iSBS
+Integrated base station sector unit with net throughput up to 800 Mbps in 80 Mhz. Recommended distance up to 20 km.
+Integrated dual-pol antenna, 16 dBi (90x8 deg). Transmit power up to 27 dBm.
+Wired Interfaces include 1x Gigabit Ethernet, SFP, and SYNC ports. ODU is 371 x 371 x 90 mm, 4.4 kg.
+Antennas
+These products provide specialized gain and form factors for various wireless links, covering 4 GHz to 11.7 GHz.
+Product Model
+Frequency and Gain
+Technical Details and Construction
+Orbiter OANT-11G35D
+10.0-11.7 GHz 2Ft Parabolic Antenna. High band gain of 35.2 dBi.
+Optimized for Mimosa B11 Backhaul Radio. Features MIMO and Dual Slant polarization (V/H or ±45°). Uses a 2 feet Dish Pizza Design for Easy Transport. Input/output is via Circle waveguide ∅19 mm. Weighs 6.5 kg.
+Orbiter OANT-4G-28-MH
+4.4-5 GHz mesh dish antenna with 28 ±1 dBi Gain.
+Supports Dual Slant polarization (V/H or ±45°). Beam width is 5.5° Horizontal and Vertical. Connects via 2-RPSMA/N Male/N Female connectors. Dish material is aluminum.
+Orbiter OANT-4G-30-MH
+4.4-5 GHz mesh dish antenna with 30 ±1 dBi Gain.
+Features a tighter beam width of 4.5° H/V. Antenna size is φ0.9 (approx. 0.9m diameter). Weighs 10 kg.
+Orbiter OANT-O13D
+4.9-5.8 GHz Omni Antenna. Offers 13 dBi High Gain.
+Connectorized, MIMO, and Dual Slant. Optimized for PTMP Applications.
+Orbiter OANT30-6SD-C
+4.9-7.125 GHz 60cm Mimo Dish Antenna. 30 dBi High Gain.
+Ultra Wide Band, optimized for Long Distance Backhaul. Features Dual Slant (V/H or ±45°) polarization. Uses a 2 feet Dish Pizza Design for Easy Transport.
+Orbiter OANT34-6MH-C
+4950 MHz to 7125 MHz 3-foot Mesh Pizza Dish Antenna. Achieves 34 dBi High Gain (at 5.9-7.125 GHz).
+Lightweight form factor using Aluminium Mesh holed Reflector. Features a Detachable 6 Piece Reflector Dish Design for easy transportation. Antenna size φ0.9m. Connector listed as 2X N FEMALE in the description and 2* N-Male in specifications.
+Orbiter OANT34-6MH-X
+4.9-6.5 GHz 3-foot Mesh Dish Antenna. 34 dBi High Gain (at 5.9-6.5 GHz).
+Compatible with Mimosa B5x, B6x, C5x, C6x via Modular Twist On Connector. Uses a Detachable 6 Piece Reflector Dish Design. Weighs 13 kg.
+Orbiter OANT36-4MH-C
+4.9-7.125 GHz 4 feet Mesh Dish Antenna. Reaches 36.5 dBi High Gain (at 5.9-7.125 GHz).
+Designed for Long Distance Backhaul and Point to Point. Lightweight form factor using a Detachable 4 Piece Reflector Dish Design. Beam width is 3° H/V. Uses 2 x N Male/Female connectors.
+Network Switches
+This covers the OS-MP Gigabit Ethernet PoE Switches and associated solar power hardware, built upon the TROS™ platform.
+Product Model
+Configuration and Capacity
+Key Features and Reliability
+OS-MP8G2S
+8xGE TX POE+ ports and 2xGE-SFP ports. 140W PoE budget.
+Backplane capacity of 20 Gbps. Fanless design. Supports ZTP (Zero Touch Provisioning) and ISSU (In-Service Software Upgrade).
+OS-MP16G4S
+16xGE TX POE+ ports and 4xGE-SFP ports. 240W PoE budget.
+Backplane capacity of 56 Gbps. Includes cooling fan. Designed for 19-inch rack mounting.
+OS-MP24G4S
+24xGE TX POE+ ports and 4xGE-SFP ports. High PoE budget of 370W.
+Backplane capacity of 56 Gbps. Fanless design. Supports carrier-level Ethernet-ring protection protocol (less than 50ms recovery time).
+OS-MP24G4SC
+24xGE TX POE+ ports and 4xGE Combo (TX/SFP) ports. High PoE budget of 370W.
+Includes a cooling fan. Backplane capacity of 56 Gbps. All OS-MP models support comprehensive QoS algorithms (SP, WRR, and “SP + WRR”).
+Solar PoE Switch
+Includes 1x 1000 Mbps PoE 60 Watts port, 2x 1000 Mbps PoE 30 Watts ports, and 2x 1000 Mbps Auto PoE 48v/24v ports. Also features 1x 1000Mbps uplink SFP port.
+Supports 12V solar panel input (<30V). Each port supports 802.3af/802.3at self-adaption.
+Smart Solar Charge Controller
+Provides 48 VDC, 30W output power over Ethernet.
+Designed for continuous specified power 24x7, supporting Telecom and Wi-Fi applications. Optimized for use with Lead Acid / Li-Ion batteries.
+PAS-ADC -48-21- 1G PoE Injector
+Single port injector providing 48 V, 21 W Rated Power. Supports 10/100/1000 Mbps Ethernet.
+Supports a wide input supply range: 90 VAC - 300 VAC or 36 V DC - 72 V DC. Features low leakage current (<1mA) and robust protections (Short circuit, Over load, Over voltage, Over Temp.).
+Software Tools
+These are integrated diagnostic, management, and control functions used across the wireless product lines.
+Tool/Feature
+Description & Application
+Automatic Control Options
+Features supporting easy operation, including Automatic Bitrate Control, Automatic Transmit Power Control, and Automatic Distance Learning.
+Spectrum Analyzer mode / Channel testing tools
+Diagnostic tools available in the NXG5 CPE/Base Stations and ORBITER XB Series.
+Antenna Alignment Tool
+A feature to assist in aligning the wireless units for optimal performance.
+EMS NEXT
+Proprietary software used for Online monitoring.
+Adaptive TDMA air protocol
+MAC layer feature used by NXG5 products, supporting dynamic and fixed air frame duration and subscriber activity aware scheduling.
+Zero Touch Provisioning (ZTP)
+Supported by the OS-MP Switch Series to minimize manual operator intervention and reduce initial deployment costs.
+In-Service Software Upgrade (ISSU)
+A reliability feature on the OS-MP Switch Series ensuring unremitting data forwarding during system upgrade.
+L2/L3 Firewall
+Networking security feature supported across both the ORBITER XB Series and the NXG5 Base Station/CPE units.
+Today • 17:29
+now i need you to give a complete details of each product one by one with respect to the each product in detail in the single file
+
+This document provides a comprehensive, one-by-one breakdown of every product detailed in the sources, organised by their primary functional categories.
+
+--------------------------------------------------------------------------------
+Wireless Radios
+These units provide high-capacity Point-to-Point (PTP) and Subscriber Terminal (CPE) connectivity across various frequency bands.
+ORBITER XB Series (General)
+• Description: A next-generation PTP solution for high-performance last-mile access.
+• Performance: Delivers throughput up to 2.1 Gbps in 160 MHz or 1.1 Gbps in 80 MHz.
+• Radio Tech: Uses SU-MIMO 2x2 with modulation from BPSK 1/2 up to QAM1024 7/8.
+• Networking: Features a built-in router, firewall, and supports MAC/IP filtering, IP tunneling, and Q-in-Q VLANs.
+• Environment: Rated IP66/IP67 and operates from -40°C to +60°C.
+OXB5-25 / OXB6-25
+• Description: Integrated antenna subscriber terminal for middle-to-long range (15-20 km).
+• Specifications: Features a 25 dBi dual-pol integrated antenna (8x8 deg).
+• Interfaces: Combo port including 1x Gigabit Ethernet (RJ45) and 1x SFP.
+• Physical: Outdoor Unit (ODU) dimensions: 350 x 350 x 71.5 mm; Weight: 2.3 kg.
+OXB5-28 / OXB6-28
+• Description: Integrated antenna subscriber terminal for long range (25+ km).
+• Specifications: Equipped with a 28 dBi dual-pol integrated antenna (5x5 deg).
+• Physical: ODU dimensions: 600 x 600 x 68 mm; Weight: 5.8 kg.
+OXB5-E / OXB6-E
+• Description: External antenna subscriber terminal for long range (30+ km).
+• Specifications: Uses connectorized antenna ports (2 x N-type).
+• Physical: ODU dimensions: 188 x 190 x 86 mm; Weight: 1.2 kg.
+Orbiter O4-E
+• Description: 4 GHz PTP unit for extreme distances of 200+ km.
+• Performance: Net throughput up to 650 Mbps with -101 dBm receiver sensitivity.
+• Radio: Operates in 4000-5000 MHz range; supports channel widths from 3.5 to 56 MHz.
+• Networking: Built-in L2 switch and management via HTTP, SSH, HTTPS, and SNMP.
+Orbiter O5 Series (O5-18, O5-23, O5-25, O5-28)
+• Overview: 5 GHz PTP units providing 650 Mbps throughput.
+• Range Options: 20 km (O5-18), 40 km (O5-23), 60 km (O5-25), and 80 km (O5-28).
+• Key Features: Integrated dual-pol antennas (18 dBi to 28 dBi) and Instant DFS for seamless channel changes.
+Orbiter O5-E
+• Description: External antenna 5 GHz PTP unit for 200+ km links.
+• Connectivity: 2x N-type (F) connectors and 1x Combo Gigabit/SFP port.
+Orbiter NXG5-ST / NXG6-ST Series (ST18, ST25, ST28)
+• Overview: 6 GHz subscriber terminals with 670 Mbps throughput.
+• Antennas: Integrated 18 dBi (ST18), 25 dBi (ST25), or 28 dBi (ST28).
+• MAC Protocol: Features the Adaptive TDMA air protocol and a unique Pseudo-radio interface to join Network Orbiter networks via 3rd party equipment.
+
+--------------------------------------------------------------------------------
+NXG5 Base Stations
+Carrier-grade sector units for Point-to-Multipoint (PTMP) infrastructure.
+Orbiter NXG5-bSBS
+• Description: 5 GHz base station with integrated beamforming antenna (21 dBi).
+• Performance: Up to 800 Mbps in 80 MHz; recommended for up to 30 km.
+• Features: 20-degree Az-steerable beam, 17 priority queues for QoS, and L2/L3 firewall.
+Orbiter NXG5-eSBS
+• Description: 5 GHz base station for external antennas (2x N-type).
+• Range: Optimized for 40+ km with up to 800 Mbps throughput.
+• Physical: Compact ODU weighing 2.2 kg.
+Orbiter NXG5-iSBS
+• Description: 5 GHz base station with an integrated 16 dBi dual-pol antenna.
+• Performance: Net throughput up to 800 Mbps; recommended range up to 20 km.
+
+--------------------------------------------------------------------------------
+Antennas
+A variety of dish, mesh, and omni-directional antennas for wide-band wireless links.
+Orbiter OANT-11G35D
+• Type: 10.0-11.7 GHz 2Ft Parabolic Antenna.
+• Performance: 35.2 dBi high gain; optimized for Mimosa B11 Backhaul.
+• Design: "2 feet Dish Pizza Design" for easy transport.
+Orbiter OANT-4G-28-MH / 30-MH
+• Type: 4.4-5 GHz mesh dish antennas.
+• Gain: 28 dBi (28-MH) or 30 dBi (30-MH).
+• Build: Lightweight aluminium mesh; diameter of 0.6m (28-MH) or 0.9m (30-MH).
+Orbiter OANT-O13D
+• Type: 4.9-5.8 GHz Omni Antenna.
+• Features: 13 dBi high gain, MIMO, and Dual Slant; optimized for PTMP applications.
+Orbiter OANT30-6SD-C / SD-C / MH-C / 6SD-X
+• Overview: 4.9-7.125 GHz 60cm (2ft) antennas with 30 dBi gain.
+• Variations: Includes solid dish (-SD), mesh (-MH), and Mimosa-compatible twist-on models (-X).
+Orbiter OANT34-6MH-C / 6MH-X
+• Type: 3-foot Mesh Pizza Dish Antennas.
+• Gain: 34 dBi in the 5.9-7.125 GHz range.
+• Construction: Detachable 6-piece reflector design for easy transportation.
+Orbiter OANT36-4MH-C
+• Type: 4.9-7.125 GHz 4-foot Mesh Dish Antenna.
+• Performance: Highest gain in series at 36.5 dBi.
+• Build: Detachable 4-piece reflector weighing 13 kg.
+
+--------------------------------------------------------------------------------
+Network Switches
+Intelligent PoE access switches based on the TROS™ platform.
+OS-MP8G2S
+• Ports: 8x Gigabit PoE+ and 2x Gigabit SFP ports.
+• Capacity: 140W PoE budget; 20 Gbps backplane.
+• Design: Fanless, desktop or rack-mounted.
+OS-MP16G4S
+• Ports: 16x Gigabit PoE+ and 4x Gigabit SFP ports.
+• Capacity: 240W PoE budget; 56 Gbps backplane.
+OS-MP24G4S / OS-MP24G4SC
+• Ports: 24x Gigabit PoE+; 4x SFP (S model) or 4x Combo RJ45/SFP (SC model).
+• Capacity: 370W PoE budget; 56 Gbps backplane.
+Solar PoE Switch
+• Ports: 1x 60W PoE, 2x 30W PoE, 2x Auto 48V/24V PoE, and 1x SFP uplink.
+• Feature: Supports 12V solar panel input (<30V).
+Smart Solar Charge Controller
+• Description: Provides 24x7 power using solar/AC grid charging.
+• Output: 48 VDC, 30W user port power.
+• Compatibility: Synchronized with Lead Acid and Li-Ion batteries.
+PAS-ADC -48-21- 1G (PoE Injector)
+• Output: 48V, 21W rated power.
+• Input: Wide range (90-300 VAC or 36-72 VDC).
+
+--------------------------------------------------------------------------------
+Software Tools
+These tools are integrated into the products to enhance management and reliability.
+• EMS NEXT: Proprietary online monitoring software used with radios and base stations.
+• ZTP (Zero Touch Provisioning): Found in OS-MP switches to reduce manual intervention and deployment costs.
+• ISSU (In-Service Software Upgrade): Allows switches to forward data without interruption during system upgrades.
+• Spectrum Analyzer & Alignment Tools: Built-in utilities for radio environment analysis and physical antenna positioning.
+How do the solar power switches manage different voltage inputs?
+What makes the Adaptive TDMA air protocol unique for subscribers?
+How does Instant DFS ensure seamless channel changes for Master units?
+i need  more details for each and very product i need more content
+
+This response provides a comprehensive, deep-dive analysis of each product found in the sources. The information is expanded to include specific technical parameters, physical attributes, and operational capabilities to give you the most content-rich overview possible.
+
+--------------------------------------------------------------------------------
+Wireless Radios
+These units serve as the backbone for high-capacity wireless connectivity, covering long-range backhauls and last-mile access.
+ORBITER XB Series (Advanced PTP)
+The ORBITER XB is a next-generation Point-to-Point solution designed for high-performance last-mile access, operating in the 4.9–6.060 GHz and 6.0–7.1 GHz ranges.
+• Performance & Capacity: It achieves groundbreaking wireless throughput of up to 2.1 Gbps in 160 MHz or 1.1 Gbps in 80 MHz.
+• Integrated Intelligence: It features a built-in router, eliminating the need for separate SOHO routers at the customer premises, and includes a built-in firewall for traffic control.
+• Networking Flexibility: Supports a vast array of protocols including MAC/IP filtering, IP tunnelling (Ethernet-over-IP, IP-over-IP), and Q-in-Q VLANs.
+• Radio Features: Utilises SU-MIMO 2x2 with modulation up to QAM1024 7/8. It includes an integrated Spectrum Analyser and Automatic Distance Learning.
+• Standard Compliance: Meets ETSI, FCC, and RoHS safety and radio standards, featuring robust lightning protection up to +/- 8kV.
+ORBITER XB Specific Models
+• OXB5-25 / OXB6-25: An integrated antenna unit for middle-to-long range (15-20 km). It features a 25 dBi dual-pol antenna and a Combo port (Gigabit Ethernet and SFP).
+• OXB5-28 / OXB6-28: Designed for long-range (25+ km) deployments with a larger 28 dBi dual-pol antenna. It weighs 5.8 kg.
+• OXB5-E / OXB6-E: A connectorized version for 30+ km distances using 2 x N-type connectors. It is the most compact of the XB series, weighing only 1.2 kg.
+Orbiter O4-E (4 GHz Distance Specialist)
+• Extreme Range: Specifically recommended for distances of 200+ km with net throughput up to 650 Mbps.
+• Radio Precision: Operates in the 4000-5000 MHz range with highly granular channel widths from 3.5 MHz to 56 MHz.
+• Sensitivity: Features exceptional receiver sensitivity down to -101 dBm.
+Orbiter O5 Series (5 GHz PTP)
+This series provides versatile 5 GHz connectivity with up to 650 Mbps throughput.
+• O5-18: Recommended for up to 20 km with an 18 dBi antenna.
+• O5-23: Recommended for up to 40 km with a 23 dBi antenna.
+• O5-25: Recommended for up to 60 km with a 25 dBi antenna.
+• O5-28: Recommended for up to 80 km with a 28 dBi antenna.
+• O5-E: External antenna unit for 200+ km.
+• Unique Feature: Instant DFS allows for background spectrum monitoring by both Master and Slave units, facilitating seamless channel changes.
+Orbiter NXG Series (6 GHz Subscriber Terminals)
+• NXG5-ST18 / ST25 / ST28 / STE: These 6 GHz units provide up to 670 Mbps throughput.
+• MAC Efficiency: Utilises an Adaptive TDMA air protocol featuring dynamic air frame duration and subscriber activity aware scheduling.
+• Compatibility: Includes a Pseudo-radio interface, a unique Network Orbiter feature allowing these units to join networks via 3rd party equipment.
+• Environmental: All NXG units are IP66/IP67 compliant and can withstand wind loads of up to 200 kph.
+
+--------------------------------------------------------------------------------
+NXG5 Base Stations
+These are the central hubs for Point-to-Multipoint (PTMP) networks, offering high-capacity sector coverage.
+Orbiter NXG5-bSBS (Beamforming Base Station)
+• Advanced Antenna: Features an integrated 21 dBi dual-pol beamforming antenna with a 90x8 deg pattern and a 20-degree Az-steerable beam.
+• Capacity: Delivers up to 800 Mbps in 80 MHz bandwidth, recommended for ranges up to 30 km.
+• Interfaces: Includes Gigabit Ethernet, SFP, and SYNC ports for precise timing.
+Orbiter NXG5-eSBS (Connectorized Base Station)
+• External Versatility: Uses 2x N-type (F) connectors and is suitable for very long ranges of 40+ km.
+• Output Power: High transmit power of up to 27 dBm.
+Orbiter NXG5-iSBS (Integrated Base Station)
+• Integrated Coverage: Provides a 16 dBi dual-pol antenna (90x8 deg) for ranges up to 20 km.
+
+--------------------------------------------------------------------------------
+Antennas
+The antenna portfolio features high-gain, wide-band designs for point-to-point data links.
+High-Band & 11 GHz Antennas
+• OANT-11G35D: A 35 dBi high-gain parabolic antenna specifically optimised for Mimosa B11 Backhaul Radios. It uses a "Pizza Dish" design for easy transport and a circle waveguide Ø 19 mm input.
+• OANT36-4MH-C: A massive 4-foot mesh dish with 36.5 dBi gain in the high band (5.9-7.125 GHz).
+Mesh Dish Series (Easy Transport Designs)
+• OANT34-6MH-C/X: A 3-foot mesh antenna with 34 dBi gain. It features a detachable 6-piece reflector design for lightweight transportation. The "-X" model is specifically compatible with Mimosa B5x, B6x, C5x, and C6x via a modular twist-on connector.
+• 4 GHz Mesh (OANT-4G-28/30-MH): Provides 28 dBi or 30 dBi gain using aluminum mesh, operating in the 4.4-5 GHz range.
+60cm (2-Foot) Mimo Series
+• OANT30-6SD-C: A solid dish providing 30 dBi gain across the 4.9-7.125 GHz range.
+• OANT30-MH-C: A mesh version for lightweight design, offering identical gain levels.
+• OANT30-6SD-X: Twist-on compatible model for Mimosa units.
+Omni-Directional Options
+• OANT-O13D: A 13 dBi high-gain omni antenna operating at 4.9-5.8 GHz, specifically optimised for PTMP applications.
+
+--------------------------------------------------------------------------------
+Network Switches
+The OS-MP Series consists of intelligent PoE access switches built on the high-performance TROS™ platform.
+Key Switch Characteristics
+• Carrier-Level Reliability: Supports Ethernet-ring protection with less than 50ms recovery time.
+• Advanced Security: Realises level-based packet protection against DoS, TCP SYN Flood, UDP Flood, and Broadcast Storms.
+• Intelligent PoE+: Supports 802.3AF/AT standards with a maximum power budget of 370W.
+Switch Models
+• OS-MP8G2S: 8xGE TX PoE+ and 2xGE SFP ports. Fanless design with a 140W budget.
+• OS-MP16G4S: 16xGE TX PoE+ and 4xGE SFP ports. Includes fan cooling and a 240W budget.
+• OS-MP24G4S: 24xGE TX PoE+ and 4xGE SFP ports. Fanless with a high 370W budget.
+• OS-MP24G4SC: Same as above but features 4xGE Combo (TX/SFP) ports and a cooling fan.
+Solar & Power Equipment
+• Smart Solar Charge Controller: Synchronised with Lead Acid or Li-Ion batteries, it provides AC grid charging backup and delivers 48 VDC (30W) power over Ethernet.
+• Solar PoE Switch: Unique switch featuring a 60W PoE port, two 30W ports, and two Auto 48v/24v ports. It accepts 12V solar panel input.
+• Universal PoE Injector (PAS-ADC-48-21-1G): A 48V 21W metal-enclosed injector with a wide input range (90V-300V AC or 36V-72V DC).
+
+--------------------------------------------------------------------------------
+Software Tools
+Detailed management and monitoring are integrated into the hardware ecosystem.
+• EMS NEXT: A proprietary system used for online monitoring of wireless units.
+• Zero Touch Provisioning (ZTP): Automates initial deployment of OS-MP switches to reduce installation costs.
+• In-Service Software Upgrade (ISSU): Ensures the switch continues data forwarding without interruption during a system upgrade.
+• Spectrum Analyser Mode: Built-in to radios for real-time environment analysis.
+• Antenna Alignment Tool: A graphical and LED-based utility to assist technicians in finding the optimal signal.
+How does the beamforming technology improve NXG5 base station performance?
+Could you explain how Instant DFS ensures seamless channel changes?
+What advantages does the detachable mesh design offer for long-distance antennas?
+i need to each individual with detailed description
+
+This comprehensive list provides a one-by-one detailed description of every product found in the sources, covering technical specifications, capacities, and physical characteristics.
+
+--------------------------------------------------------------------------------
+Wireless Radios
+This category includes Point-to-Point (PTP) and Customer Premises Equipment (CPE) for wide-band connectivity.
+ORBITER XB Series (Advanced PTP)
+• General Capability: A next-generation PTP solution for high-performance last-mile access, operating in 4.9–6.060 GHz and 6.0–7.1 GHz. It achieves a maximum capacity of 2.1 Gbps in 160 MHz bandwidth or 1.1 Gbps in 80 MHz.
+• Networking Features: It includes a built-in router and firewall, supporting MAC/IP filtering, IP tunnelling (Ethernet-over-IP, IP-over-IP), and Q-in-Q VLANs.
+• Radio Specifications: Utilises SU-MIMO 2x2 with modulation up to QAM1024 7/8. Features include Automatic Bitrate Control, DFS/Radar detection, and an integrated Spectrum Analyser.
+• Models:
+    ◦ OXB5-25 / OXB6-25: Integrated 25 dBi dual-pol antenna (8x8 deg) for 15-20 km range.
+    ◦ OXB5-28 / OXB6-28: Integrated 28 dBi dual-pol antenna (5x5 deg) for 25+ km range.
+    ◦ OXB5-E / OXB6-E: Connectorized model (2 x N-type) for 30+ km range.
+Orbiter NXG Series (6 GHz CPE Terminals)
+These terminals provide up to 670 Mbps net throughput using MIMO 2x2 (OFDM 64/128) technology. They operate in the 4900-6425 MHz range and feature the Adaptive TDMA air protocol.
+• NXG5-ST18: Integrated 18 dBi antenna; recommended for up to 10 km.
+• NXG5-ST25: Integrated 25 dBi antenna; recommended for up to 15 km.
+• NXG5-ST28: Integrated 28 dBi antenna; recommended for 25+ km.
+• NXG5-STE: Connectorized (2x N-type) for 30+ km.
+• NXG6-18: 6 GHz PTP/PTMP unit with 18 dBi antenna for up to 10 km.
+Orbiter O4 & O5 Series (PTP Specialists)
+• Orbiter O4-E: A 4 GHz PTP unit for extreme distances of 200+ km with 650 Mbps throughput. It operates in 4000-5000 MHz and features receiver sensitivity down to -101 dBm.
+• Orbiter O5 Series: 5 GHz units (4900-6000 MHz) providing 650 Mbps throughput. They feature Instant DFS for seamless channel changes.
+    ◦ O5-18: 18 dBi antenna for 20 km.
+    ◦ O5-23: 23 dBi antenna for 40 km.
+    ◦ O5-25: 25 dBi antenna for 60 km.
+    ◦ O5-28: 28 dBi antenna for 80 km.
+    ◦ O5-E: External antenna (2x N-type) for 200+ km.
+
+--------------------------------------------------------------------------------
+NXG5 Base Stations
+Carrier-grade sector units offering up to 800 Mbps throughput for PTMP networks.
+• Orbiter NXG5-bSBS: Integrated 21 dBi beamforming antenna (90x8 deg) with a 20-degree Az-steerable beam. Recommended for up to 30 km.
+• Orbiter NXG5-eSBS: Connectorized (2x N-type) for external antennas, suitable for distances of 40+ km.
+• Orbiter NXG5-iSBS: Integrated 16 dBi dual-pol antenna (90x8 deg) for ranges up to 20 km.
+
+--------------------------------------------------------------------------------
+Antennas
+A portfolio of specialized antennas for long-distance data links and multi-point access.
+High-Gain Mesh & Solid Dishes
+• OANT34-6MH-C: A 3-foot mesh pizza dish antenna (4950–7125 MHz) with 34 dBi gain. It uses a detachable 6-piece reflector design for easy transportation and features 2x N-Female connectors.
+• OANT36-4MH-C: A 4-foot mesh dish offering 36.5 dBi peak gain. Features a detachable 4-piece design and weighs 13 kg.
+• OANT-11G35D: A 10.0-11.7 GHz parabolic antenna with 35.2 dBi gain, optimized for Mimosa B11 backhaul radios.
+• OANT30 Series: 60cm (2-foot) dishes providing 30 dBi gain. Models include Solid Dish (-6SD-C), Mesh (-MH-C), and Mimosa-compatible twist-on (-6SD-X).
+Specialized Antennas
+• OANT-4G-28-MH / 30-MH: 4.4-5 GHz mesh dishes with 28 dBi or 30 dBi gain.
+• OANT-O13D: 4.9-5.8 GHz Omni antenna with 13 dBi gain, optimized for PTMP applications.
+
+--------------------------------------------------------------------------------
+Network Switches
+Intelligent PoE access switches and solar power solutions based on the TROS™ platform.
+OS-MP PoE Switch Series
+These switches support carrier-level reliability (recovery <50ms) and security features like DDoS/SYN Flood protection.
+• OS-MP8G2S: 8x Gigabit PoE+ ports and 2x Gigabit SFP; 140W PoE budget; fanless.
+• OS-MP16G4S: 16x Gigabit PoE+ ports and 4x Gigabit SFP; 240W PoE budget; cooling fan.
+• OS-MP24G4S: 24x Gigabit PoE+ ports and 4x Gigabit SFP; 370W PoE budget; fanless.
+• OS-MP24G4SC: 24x Gigabit PoE+ ports and 4x GE Combo (TX/SFP); 370W budget; cooling fan.
+Solar & Power Equipment
+• Solar PoE Switch: Features 1x 60W PoE, 2x 30W PoE, 2x Auto 48V/24V ports, and 1x SFP uplink. Supports 12V solar panel input.
+• Smart Solar Charge Controller: Provides 48 VDC (30W) power over Ethernet. Synchronized with Lead Acid/Li-Ion batteries and supports AC grid charging backup.
+• PAS-ADC-48-21-1G (Universal PoE Injector): Metal-enclosed 48V 21W injector with a wide input range (90V-300V AC or 36V-72V DC).
+
+--------------------------------------------------------------------------------
+Software Tools
+Integrated features used across the product line for management and optimization.
+• EMS NEXT: A proprietary system for online monitoring.
+• Zero Touch Provisioning (ZTP): Automates initial deployment to reduce installation costs on OS-MP switches.
+• ISSU (In-Service Software Upgrade): Ensures uninterrupted data forwarding during switch system upgrades.
+• MAC Layer Protocols: Adaptive TDMA air protocol for subscriber activity aware scheduling.
+• Diagnostic Tools: Built-in Spectrum Analyser, Antenna Alignment Tool, and Channel Testing Tools.
